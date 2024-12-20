@@ -1,0 +1,1 @@
+This repository includes the assignment: HTML Elements for Content and Layout in Module 7: Lesson 2 of the Software Engineering Core.
